@@ -263,8 +263,6 @@ This will allow the project to grow without changing the core dataset.
 
 This project is licensed under the MIT License.
 
-Copyright (c) 2026 N. Mousavi
-
 See the [LICENSE](LICENSE) file for details.
 
 ---
