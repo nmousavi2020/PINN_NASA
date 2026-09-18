@@ -1,0 +1,8 @@
+# Models
+models/
+*.pt
+*.pth
+
+# Temporary files
+*.tmp
+*.bak
