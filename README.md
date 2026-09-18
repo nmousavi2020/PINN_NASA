@@ -1,4 +1,3 @@
-````markdown
 # NASA Bearing — Physics-Informed Neural Network
 
 A short Physics-Informed Neural Network (PINN) project for bearing degradation analysis using the NASA IMS Bearing Dataset.
@@ -27,7 +26,7 @@ Data Loss + Physics Loss
 Degradation Prediction
        ↓
 Visualization
-````
+```
 
 ---
 
@@ -232,6 +231,10 @@ RMS
  └────────────────────→ Time
 ```
 
+The generated figure is also included directly in this README:
+
+![PINN Bearing Degradation](plots/pinn_degradation.png)
+
 ---
 
 ## Limitations
@@ -294,6 +297,3 @@ See the [LICENSE](LICENSE) file for details.
 Copyright (c) 2026 N. Mousavi
 
 All rights reserved.
-
-```
-```
