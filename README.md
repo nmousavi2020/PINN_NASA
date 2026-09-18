@@ -237,27 +237,6 @@ The generated figure is also included directly in this README:
 
 ---
 
-## Limitations
-
-This is a compact educational PINN implementation.
-
-The current physics constraint assumes that the degradation indicator should generally increase with time. It does not yet use a detailed physical bearing-dynamics equation.
-
-Future versions can introduce:
-
-* Multiple vibration channels
-* More vibration features
-* Bearing-specific physics
-* Anomaly detection
-* Remaining Useful Life (RUL)
-* Train/validation/test splitting
-* Experiment tracking
-* Model checkpoints
-* Hyperparameter tuning
-* Production inference
-
----
-
 ## Next Step
 
 The next development step is to separate the current code into reusable components:
